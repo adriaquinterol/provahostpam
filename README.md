@@ -1,7 +1,7 @@
 # provahostpam
 ## ASIX M06-ASO @adriaquintero Curs 2019-2020
 ### Repositoris:
-- [GitHub](https://github.com/adriaquinterol/provahostpam): Conté la imatge de pam amb els fitxers.
+- [GitHub](https://github.com/adriaquinterol/provahostpam): Conté la imatge de pam amb els fitxers de la prova hostpam.
 - [Dockerhub](https://hub.docker.com/repository/docker/adriaquintero61/hostpam19): Conté la imatge de pam.
 
 ### Instruccions per a executar el docker:
